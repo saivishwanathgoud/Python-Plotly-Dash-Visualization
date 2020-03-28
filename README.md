@@ -11,5 +11,5 @@ b) Layout = Title, axis names etc.
 
 c) Figure = pass Data and Layout
 
-Call the plot function to get the visual as a HTML Webpage 
+Call the plot function to get the visual as a HTML Webpage or init_notebook_mode
 
